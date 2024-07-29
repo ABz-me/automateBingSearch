@@ -1,4 +1,4 @@
-# 🛠️ PyAutoGUI Automation Script
+# 🛠️ automateBingSearch
 
 Welcome to the PyAutoGUI Automation Script repository! This script leverages the power of PyAutoGUI to automate mouse movements and clicks based on specific coordinates. Perfect for automating repetitive tasks on your computer.
 
@@ -68,4 +68,4 @@ Feel free to contribute to this project by submitting issues or pull requests. Y
 
 ## 📧 Contact
 
-For any questions or feedback, please reach out to [arkapravabhattacharya01@gmail.com](mailto:Arkaprava_Bhattacharya).
+For any questions or feedback, please reach out to [Arkaprava_Bhattacharya](mailto:arkapravabhattacharya01@gmail.com).
